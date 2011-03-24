@@ -13,7 +13,7 @@ SRC_URI=${PN}__LINUX_INDEP.${PV/%.[0-9]/-\1}.tar.gz
 LICENSE="Teradata"
 SLOT="0"
 KEYWORDS="~x86 ~amd64"
-IUSE="motif X"
+IUSE="motif"
 RESTRICT="fetch"
 
 [[ "${ARCH}" == "amd64" ]] || \
