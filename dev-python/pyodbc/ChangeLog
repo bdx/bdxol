@@ -1,0 +1,10 @@
+# ChangeLog for dev-python/pyodbc
+# Copyright 1999-2011 Gentoo Foundation; Distributed under the GPL v2
+# $Header: $
+
+*pyodbc-2.1.8 (25 Mar 2011)
+
+  25 Mar 2011; Alexandre Nuno Oliveira <anm@gentoo.org>
+  +pyodbc-2.1.8.ebuild, +metadata.xml:
+  ebuild for pyodbc-2.1.8
+
