@@ -11,7 +11,7 @@ SRC_URI="http://pyodbc.googlecode.com/files/${P}.zip"
 
 LICENSE="MIT"
 SLOT="0"
-KEYWORDS="~amd64 ~x86"
+KEYWORDS=""
 IUSE="mssql"
 
 DEPEND=">=dev-lang/python-2.4"
