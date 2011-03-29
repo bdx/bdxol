@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE pkgmetadata SYSTEM "http://www.gentoo.org/dtd/metadata.dtd">
+<pkgmetadata>
+	<herd>no-herd</herd>
+	<maintainer>
+		<email>nunomilheiro@gmail.com</email>
+		<name>Alexandre Nuno Milheiro</name>
+	</maintainer>
+	<longdescription>ICU libraries to support UNICODE for Client utilities package for 64bit Linux.
+ICU is a C++ and C library that provides robust and full-featured Unicode
+and locale support. This package contains the runtime libraries for ICU
+with modifications for use with Teradata utilities.
+Copyright (C) Teradata Corporation, 2009 All Rights Reserved.</longdescription>
+</pkgmetadata>
